@@ -66,15 +66,7 @@ ggplot2
 - main function: ```ggplot()`` ` 
 - layered system: geometric attributes (points, bars, ...), aesthetics (color, size, ...), statistical calculations. 
 - other functions for variables: ```aes()``` 
-- layers added with the sign (operator) **+** 
-
-Zotero (tags)
-======================================================== 
-![etiquetas](images/zotero_tags.png) 
-
-Zotero (author) 
-==================================================================
-![autores](images/zotero_info.png)   
+- layers added with the sign (operator) **+**
 
 
    

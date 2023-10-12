@@ -54,7 +54,6 @@ Dataset
 - Real data set
 - Subset of 91 (observations)
 - stylometry_sample.csv 
-- session_sample.csv
 
 ggplot2 
 ======================================================== 

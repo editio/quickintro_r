@@ -11,15 +11,12 @@ Introduction
 - Getting Started in R. 
 - Data description: bibliography 
 - Zotero (tool for reference management). 
-- Manipulation and visualization of data in R (charts, maps, networks). 
+- Manipulation and visualization of data in R
 
 Procedure 
 ========================================================
 
-## Code and data [editio/dataviz](<https://github.com/editio/dataviz>) 
-  - 1_scripts_ggplot.R 
-  - 2_scripts_maps.R 
-  - 3_scripts_networks.R
+## Code and data
 
 ## Run the code in the console (_console_) 
   - R uses the command line (_command-line_) 

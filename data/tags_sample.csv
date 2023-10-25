@@ -1,0 +1,12 @@
+,Item.Type,Author,Title,Publication.Title,Publication.Year,Place,Manual.Tags
+2,book,"Moretti, Franco","Graphs, Maps and Trees. Abstract Models for Literary History",,2007,London,DataViz; Distant Reading; mapas; Network
+3,book,"Moretti, Franco",Canon/Archive: Studies in Quantitative Formalism from the Stanford Literary Lab,,2017,London,DataViz; Digital humanities; Distant Reading; Network
+4,book,"Newman, Mark",Networks: An Introduction,,2010,Oxford,DataViz; Network
+5,journalArticle,"Schöch, Christof",Big? Smart? Clean? Messy? Data in the Humanities,Journal of Digital Humanities,2013,,data; DataViz; Digital humanities
+6,book,"Meirelles, Isabel","Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations",,2013,"Beberly, USA",DataViz
+7,book,"Jockers, Matthew L.",Text analysis with R for students of literature,,2014,New York,DataViz; Digital humanities; R
+8,book,"Arnold, Taylor; Tilton, Lauren",Humanities data in R,,2015,New York,DataViz; Digital humanities; R
+9,book,"Burnard, Lou",What is the Text Encoding Initiative?: How to add intelligent markup to digital resources,,2014,Marseille,DataViz; Digital humanities; TEI
+10,book,"Chang, Winston",R Graphics Cookbook: Practical Recipes for Visualizing Data,,2012,Cambridge,DataViz; R
+11,book,"Flanders, Julia; Jannidis, Fotis",The Shape of Data in Digital Humanities: Modeling Texts and Text-Based Resources.,,2018,"Milton, UK",data; DataViz; Digital humanities
+12,book,"Wickham, Hadley",ggplot2: elegant graphics for data analysis,,2016,New York,DataViz; R
